@@ -1,0 +1,26 @@
+<resources>
+    <!--
+Marija Jovicic
+Project 3b
+5/12/2020
+-->
+    <string name="app_name">Sign Up</string>
+    <string name="competition">Competition</string>
+    <string name="welcome">Welcome to Tennis Club \"Fighter\" Registration Page.</string>
+    <string name="enterInfo">Please enter your information below:</string>
+    <string name="name">Full Name:</string>
+    <string name="DOB">Date of Birth:</string>
+    <string name="submit">Submit</string>
+    <string name="playedBefore">I have played tennis before</string>
+    <string name="newPeople">Meeting New People</string>
+    <string name="recreation">Recreation</string>
+    <string name="playFor">I want to play for:</string>
+    <string name="dateHint">01/20/2000</string>
+    <string name="nameHint">John Doe</string>
+    <string name="played_before">Played Before:</string>
+    <string name="plays_for">Plays for:</string>
+    <string name="dob">DOB:</string>
+    <string name="Name">Name:</string>
+    <string name="summary">Summary:</string>
+    <string name="thankYou">Thank you for creating your profile!</string>
+</resources>

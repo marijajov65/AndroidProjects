@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Monthly Loan Payment Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="userMessage">Your monthly loan payment is:</string>
+    <string name="placeholder">0</string>
+    <string name="principal">Enter the principal</string>
+    <string name="mInterest">Enter the monthly interest rate</string>
+    <string name="loanTerm">Enter the term of the loan in years</string>
+</resources>

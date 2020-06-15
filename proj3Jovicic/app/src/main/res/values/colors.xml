@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+Marija Jovicic
+Project 3b
+5/12/2020
+-->
+    <color name="colorPrimary">#FFB300</color>
+    <color name="colorPrimaryDark">#FB8C00</color>
+    <color name="colorAccent">#FFB300</color>
+    <color name="textColor">#BA000000</color>
+    <color name="primaryBlack">#E9000000</color>
+    <color name="background">#48ECE0AE</color>
+</resources>

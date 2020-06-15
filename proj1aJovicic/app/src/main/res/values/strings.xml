@@ -1,0 +1,10 @@
+<!--
+Marija Jovicic
+Project 1 a)
+Date: 3/31/20
+-->
+
+<resources>
+<string name="app_name">Famous Oscar Wilde Quote</string>
+    <string name="quote">The aim of life is self-development. To realize one\'s nature perfectly - that is what each of us is here for.</string>
+</resources>

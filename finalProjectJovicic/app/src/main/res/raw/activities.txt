@@ -1,0 +1,17 @@
+Play tennis,>$10,yes
+Read a book,<$10,no
+Try a new recipe,<$10,no
+Go to a concert,>$10,yes
+Go skydiving,>$10,yes
+Create a TikTok,<$10,no
+Ride a bike,<$10,yes
+Go for a walk,<$10,yes
+Visit a nature resort,>$10,yes
+Call an old friend,<$10,no
+Watch a show on Netflix,<$10,no
+Go for a run,<$10,yes
+Grab coffee with a friend,<$10,yes
+Go to the gym,>$10,no
+Play squash,>$10,no
+Go shopping,>$10,no
+Do a DIY project,<$10,no

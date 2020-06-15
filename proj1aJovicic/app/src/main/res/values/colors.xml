@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Marija Jovicic
+Project 1 a)
+Date: 3/31/20
+-->
+
+<resources>
+    <color name="colorPrimary">#FFEB3B</color>
+    <color name="colorPrimaryDark">#050505</color>
+    <color name="colorAccent">#F44336</color>
+</resources>
